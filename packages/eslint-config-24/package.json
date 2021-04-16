@@ -1,5 +1,5 @@
 {
-  "name": "24-eslint-config-pancake",
+  "name": "eslint-config-24k",
   "version": "1.0.1",
   "description": "Eslint config for PancakeSwap",
   "main": "lib/index.js",
