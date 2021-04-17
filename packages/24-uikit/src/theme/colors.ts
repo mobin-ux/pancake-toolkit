@@ -43,7 +43,7 @@ export const darkColors: Colors = {
   ...brandColors,
   secondary: "#f6c90e",
   background: "#303841",
-  backgroundDisabled: "#3c3742",
+  backgroundDisabled: "#434138",
   backgroundAlt: "#3a4750",
   contrast: "#FFFFFF",
   dropdown: "#1E1D20",
@@ -53,7 +53,7 @@ export const darkColors: Colors = {
   primaryDark: "#0098A1",
   tertiary: "#55513f",
   text: "#fcf7e3",
-  textDisabled: "#666171",
+  textDisabled: "#767366",
   textSubtle: "#d5c78c",
   borderColor: "#524B63",
   gradients: {
