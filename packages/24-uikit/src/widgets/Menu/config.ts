@@ -139,7 +139,7 @@ export const links = [
   {
     label: "Audit",
     icon: "AuditIcon",
-    href: "",
+    href: "https://24kswap.finance/file/24k-swap.pdf",
   },
 ];
 
