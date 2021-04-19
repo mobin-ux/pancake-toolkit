@@ -136,6 +136,11 @@ export const links = [
       },
     ],
   },
+  {
+    label: "Audit",
+    icon: "AuditIcon",
+    href: "",
+  },
 ];
 
 export const socials = [
